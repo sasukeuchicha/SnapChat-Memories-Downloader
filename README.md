@@ -2,11 +2,7 @@
 ## Tool made for you
 Snap Chat is widely used social media application but sometimes its frustrating on how hard it is to use it to save chats, download and store photos, browse, etc,...
 
-But one of the feature to download the "memories" that you have kept in your phone would take a very long time to download. Isn't it?., 
-
-Each one of them and requires great deal of time if you have a lot of them stored on your phone.
-
-So here this would help you in downloading all the photos and videos faster. Probably if you have more than 10 photos and videos it would take long time to download each.
+But one of the feature to is to download the "memories" that you have. But it might not be saved forever and while migrating to new phone you might have lost the data.
 
 ## How it works
 
