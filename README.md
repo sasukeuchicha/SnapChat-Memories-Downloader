@@ -11,6 +11,7 @@ So here this would help you in downloading all the photos and videos faster. Pro
 ## How it works
 
 So its simple, We have the json file which we can download from snapchat which requires a POST method on the link provided on AWS s3 server and then in turn it would provide a GET link as a response. 
+
 Which is the actual download link. So it would download te image or video like wise and store it in the folder Output.
 
 ## Prerequisites
