@@ -20,9 +20,8 @@ To run this you must have python with version 3.0+ installed with inbult librari
 ## Want to test it on your device?
 
 1) Download "My Data" from settings menu of Snap Chat. Settings -> My Data
-
-
 ![My Data Settings](https://vpnoverview.com/wp-content/uploads/snapchat-app-settings-settings-my-data.jpg "My Data Tab")
+
 2) In a few minutes you will receive a mail with zip file of your data from snapchat. Then you will find **memories_history.json** file in the json folder. Once you copy and paste it in the project **SnapChat-Input** folder (`[location_to_project]/SnapCat-Input`). 
 
 3) Run the main.py in terminal. 
@@ -33,6 +32,7 @@ To run this you must have python with version 3.0+ installed with inbult librari
 		cd [location_to_project]
 		python main.py
 	```
+
 4) You will find the downloaded images and videos in the output folder.
 
 ## Future improvements 
