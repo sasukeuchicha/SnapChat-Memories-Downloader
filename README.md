@@ -32,6 +32,8 @@ To run this you must have python with version 3.0+ installed with inbult librari
 
 4) You will find the downloaded images and videos in the output folder.
 
+![snapchat-downloader working 1](https://user-images.githubusercontent.com/32739586/215326166-7fcaf7ca-8179-411c-ada7-8f216cbc1e8d.png)
+
 ## Future improvements 
 * Use Spring Rest controller or Django Rest Framwork to create a working model on the cloud directly with security enabled for each user. 
 
